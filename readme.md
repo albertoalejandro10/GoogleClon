@@ -1,6 +1,6 @@
 # Google Clon
 
-Web estática desarrollada para practicar HTML y CSS, es una página clonada, basada en Google.com
+Web estática desarrollada para practicar HTML y CSS, es una página basada en Google.com
 
 ## Usage
 
